@@ -1,6 +1,6 @@
 {
   "name": "create-firefox-addon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A smal helper app, to create firefox addon boilerplate",
   "main": "app.js",
   "scripts": {
