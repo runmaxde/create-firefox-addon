@@ -1,0 +1,25 @@
+{
+  "name": "create-firefox-addon",
+  "version": "1.0.0",
+  "description": "A smal helper app, to create firefox addon boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runmaxde/create-firefox-addon.git"
+  },
+  "keywords": [
+    "firefox",
+    "addonn",
+    "manifest",
+    "create"
+  ],
+  "author": "runmaxde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runmaxde/create-firefox-addon/issues"
+  },
+  "homepage": "https://github.com/runmaxde/create-firefox-addon#readme"
+}
